@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/banner.png" alt="NumPy Banner" width="100%">
+  <img src="OIP.jpg" alt="NumPy Banner" width="100%">
 </p>
 
 <h1 align="center">📘 NumPy Notes for Data Science & Data Analytics</h1>
@@ -116,17 +116,7 @@ NumPy-Notes/
 ### NumPy Logo
 
 <p align="center">
-<img src="images/numpy-logo.png" width="180">
-</p>
-
----
-
-### Sample Notebook
-
-> Add a screenshot of your notebook here.
-
-<p align="center">
-<img src="images/notebook-preview.png" width="900">
+<img src="numpy logo.jpg" width="180">
 </p>
 
 ---
